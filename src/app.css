@@ -1,0 +1,7 @@
+*{box-sizing:border-box;}
+body,html{height:100%;background:#fff;}
+body{position:relative;padding:48px 0 124px;}
+.container{width:1200px;margin:0 auto;}
+.header{height:48px;background:url('./img/header_bg.png');min-width:1200px;position:absolute;left:0;top:0;width:100%;}
+.footer{position:absolute;left:0;bottom:0;width:100%;min-width:1200px;height:124px;background:#000;}
+.main{min-height:500px;}
